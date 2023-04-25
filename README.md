@@ -49,7 +49,5 @@
  <summary>Projetos</summary>
      
 - **Tela de Login e Cadastro**\
-  <p>Clique Aqui
-    <a href="https://tela-login-cadastro.netlify.app/">
-  </p>
+  <p>Link: https://tela-login-cadastro.netlify.app</p>
   </details>
