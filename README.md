@@ -38,7 +38,7 @@
   <details>
   <summary>Cursos</summary>
    
-      <p>Análise e Desenvolvimento de Sistemas** - 2022 - 2024</p>
-      <p>Estácio de Sá - Campinas</p>
+      ### Análise e Desenvolvimento de Sistemas** - 2022 - 2024\
+      Estácio de Sá - Campinas\
   
   </details>
