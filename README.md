@@ -43,10 +43,11 @@
     
 - **Introdução ao BootStrap** - 2023\
   Udemy - Campinas
-
+  </details>
     
   <details>
  <summary>Projetos</summary>
      
 - **Tela de Login e Cadastro**\
   <a href="https://tela-login-cadastro.netlify.app/" Clique Aqui>
+  </details>
