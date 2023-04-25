@@ -30,4 +30,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=deeerick&show_icons=true&count_private=true&theme=dark"/>
+<p align='center'>
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=deeerick&show_icons=true&count_private=true&theme=dark"/>
+ </p>
