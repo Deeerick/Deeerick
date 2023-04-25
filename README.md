@@ -39,6 +39,7 @@
   <summary>Cursos</summary>
    
    - #### **Análise e Desenvolvimento de Sistemas** - 2022 - 2024
-    Estácio de Sá - Campinas
+   - #### **Introdução ao BootStrap** - 2023
+   - #### **Introdução à JavaScript** - 2023
   
   </details>
