@@ -34,3 +34,12 @@
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=deeerick&show_icons=true&count_private=true&theme=light"/>
  </p>
+  
+  <details>
+  <summary>Resume</summary>
+    
+   ## Cursos
+    
+    - **Análise e Desenvolvimento de Sistemas**
+    2022 - 2024\
+    Estácio
