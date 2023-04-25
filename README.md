@@ -39,7 +39,14 @@
   <summary>Cursos</summary>
    
    - #### **Análise e Desenvolvimento de Sistemas** - 2022 - 2024
-   - #### **Introdução ao BootStrap** - 2023
-   - #### **Introdução à JavaScript** - 2023
+   - #### **Introdução ao BootStrap** - 2023 - 2023
+   - #### **Introdução à JavaScript** - 2023 - 2024
+  
+  </details>
+
+    <details>
+  <summary>Projetos</summary>
+   
+   - #### **Login e Cadastro** - https://tela-login-cadastro.netlify.app/
   
   </details>
