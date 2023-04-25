@@ -50,5 +50,6 @@
   <summary>Projetos</summary>
    
    - #### **Login e Cadastro** - https://tela-login-cadastro.netlify.app/
+   - #### **Galeria de Arte** - https://galeria-art.netlify.app/
   
   </details>
