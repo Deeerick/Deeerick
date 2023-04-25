@@ -38,8 +38,10 @@
   <details>
   <summary>Cursos</summary>
     
-- **Análise e Desenvolvimento de Sistemas** - 2022 - 2024\
-  Estácio de Sá - Campinas
+    <h3>
+      <p>Análise e Desenvolvimento de Sistemas** - 2022 - 2024</p>
+      <p>Estácio de Sá - Campinas</p>
+    </h3>
     
 - **Introdução ao BootStrap** - 2023\
   Udemy - Campinas
