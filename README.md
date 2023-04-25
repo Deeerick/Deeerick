@@ -37,19 +37,8 @@
   
   <details>
   <summary>Cursos</summary>
-    
-    <h3>
+   
       <p>Análise e Desenvolvimento de Sistemas** - 2022 - 2024</p>
       <p>Estácio de Sá - Campinas</p>
-    </h3>
-    
-- **Introdução ao BootStrap** - 2023\
-  Udemy - Campinas
-  </details>
-    
-  <details>
- <summary>Projetos</summary>
-     
-- **Tela de Login e Cadastro**\
-  <p>Link: https://tela-login-cadastro.netlify.app</p>
+  
   </details>
