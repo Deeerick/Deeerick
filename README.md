@@ -45,7 +45,6 @@
   </details>
   
   <br>
-  <br>
   
   <details>
   <summary>Projetos</summary>
