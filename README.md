@@ -43,7 +43,10 @@
    - #### **Introdução à JavaScript** - 2023 - 2024
   
   </details>
-
+  
+  <br>
+  <br>
+  
   <details>
   <summary>Projetos</summary>
    
