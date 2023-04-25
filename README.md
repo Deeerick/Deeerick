@@ -44,7 +44,7 @@
   
   </details>
 
-    <details>
+  <details>
   <summary>Projetos</summary>
    
    - #### **Login e Cadastro** - https://tela-login-cadastro.netlify.app/
