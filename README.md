@@ -40,8 +40,11 @@
   <summary>Cursos</summary>
    
    - #### **Análise e Desenvolvimento de Sistemas** - 2022 - 2024
+   - #### **Introdução ao HTML e CSS** - 2023
    - #### **Introdução ao BootStrap** - 2023
-   - #### **Introdução à JavaScript** - 2023 - 2024
+   - #### **Introdução ao JavaScript** - 2023
+   - #### **Introdução ao PHP** - 2023
+   - #### **Introdução ao Python** - 2023
   
   </details>
   
