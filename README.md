@@ -1,6 +1,6 @@
 <div class="markdown-heading">
 
-<h1 align="center" class="heading-element" dir="auto">Hi there, i'm Dérick!</h1>
+<h1 align="center" class="heading-element" dir="auto">Hello World! 🌎</h1>
 
 <p align="center" dir="auto">
     <a href="#">
