@@ -25,4 +25,6 @@
     <br>
 </p>
 
+<p align="center" dir="auto">Olá, me chamo Dérick e sou um aspirante a desenvolvedor backend!</p>
+
 </div>
