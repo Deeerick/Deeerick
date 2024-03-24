@@ -9,7 +9,7 @@
 
 <p align="center" dir="auto">
     <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&layout=compact&show_icons=true&theme=dark&hide=javascript,html">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&layout=compact&show_icons=true&theme=dark">
 </p>
 
 <p align="center" dir="auto">
