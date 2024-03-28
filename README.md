@@ -9,7 +9,7 @@
 
 <p align="center" dir="auto">
     <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&layout=compact&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&layout=compact&show_icons=true&theme=dark&hide=PowerShell,Batchfile">
 </p>
 
 <p align="center" dir="auto">
