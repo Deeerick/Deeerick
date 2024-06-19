@@ -26,3 +26,5 @@ Sou um desenvolvedor recém formado e atualmente trabalho como RPA Developer.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeerick&show_icons=true&count_private=true&theme=highcontrast )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&theme=highcontrast )
+
+
