@@ -13,7 +13,9 @@ Sou um desenvolvedor recém formado e atualmente trabalho como RPA Developer.
 
 
 ## Skills:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -23,8 +25,6 @@ Sou um desenvolvedor recém formado e atualmente trabalho como RPA Developer.
 
 
 ## Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeerick&show_icons=true&count_private=true&theme=great-gatsby)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeerick&show_icons=true&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&theme=great-gatsby)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&show_icons=true&theme=dark)
