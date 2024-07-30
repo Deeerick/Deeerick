@@ -6,8 +6,6 @@
 
 <div align="left">
   <img class="border-1" src="https://github-readme-stats.vercel.app/api?username=Deeerick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  
-  <img class="border-1" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" height="150px"/>
 
   <img class="border-1" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
@@ -15,16 +13,16 @@
 
 <h4>Meus contatos:</h4>
 <div align="left">
-  <a href="https://www.linkedin.com/in/deeerick/" target="_blank">
+  <a href="https://www.linkedin.com/in/deeerick/">
     <img class="border-2" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-    <a>
+    <a href="mailto:devdeeerick@gmail.com">
     <img class="border-2" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
-  <a href="https://www.instagram.com/_Deeerick" target="_blank">
+  <a href="https://www.instagram.com/_Deeerick">
     <img class="border-2" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
-  <a href="https://discord.com/invite/uuzumNh59R" target="_blank">
+  <a href="https://discord.com/invite/uuzumNh59R">
     <img class="border-2" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
   </a>
 </div>
