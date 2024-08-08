@@ -1,6 +1,10 @@
 <h1 align="left">Hello World! 🌎</h1>
 
-<p align="left">Sou um desenvolvedor recém formado e atualmente trabalho com automação e análise de dados.<br><br>- Python<br>- SAP</p>
+<p align="left">Sou um desenvolvedor recém formado e atualmente trabalho com automação e análise de dados.
+<br>
+- Python
+<br>
+- SAP</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
