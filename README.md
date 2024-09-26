@@ -11,9 +11,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-![Derick's GitHub stats](https://github-readme-stats-seven-beta-34.vercel.app/api?username=Deeerick&show_icons=true&theme=radical)
+![Derick's GitHub stats](https://github-readme-stats-seven-beta-34.vercel.app/api?username=Deeerick&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&exclude_repo=github-readme-stats&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&exclude_repo=github-readme-stats&theme=radical&count_private=true)
 
 #### Contatos:
 | [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/) | [![E-mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:devdeeerick@gmail.com) | [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick) | 
