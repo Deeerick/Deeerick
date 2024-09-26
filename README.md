@@ -2,11 +2,11 @@
 
 ![banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-##### Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.
+#### Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.
 
-##### Tenho experiência em automação de processos (RPA) com Python, manipulação de grandes volumes de dados e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, Pandas e PySimpleGUI.
+#### Tenho experiência em automação de processos (RPA) com Python, manipulação de grandes volumes de dados e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, Pandas e PySimpleGUI.
 
-##### Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.
+#### Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
