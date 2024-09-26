@@ -1,18 +1,18 @@
-<h1 align="left">Hello World! 🌎</h1>
+# Hello World! 🌎
 
-<p align="left">Sou um desenvolvedor recém formado e atualmente trabalho com automação e análise de dados.
-<br>
-- Python
-<br>
-- SAP</p>
+![banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+
+##### Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.
+
+##### Tenho experiência em automação de processos (RPA) com Python, manipulação de grandes volumes de dados e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, Pandas e PySimpleGUI.
+
+##### Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
+![Derick's GitHub stats](https://github-readme-stats-seven-beta-34.vercel.app/api?username=Deeerick&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&theme=radical"/>
-</div>
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&show_icons=true&theme=radical) -->
 
 <div>
     <h4>Meus contatos:</h4>
@@ -27,6 +27,7 @@
     </a>
 </div>
 
+##### 
 
 <div>
     <h4>Skills:</h4>
@@ -37,9 +38,4 @@
     <img style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML"/>
     <img style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" title="CSS"/>
     <img style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" title="Bootstrap"/>
-</div>
-
-
-<div>
-    <img style="width:100%; margin-top:20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
