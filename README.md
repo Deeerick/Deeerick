@@ -1,5 +1,9 @@
 <h1 align="left">Hello World! 🌎</h1>
 
+<div>
+    <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" height="100%">
+</div>
+
 ###
 
 <p align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.<br><br>Tenho experiência em automação de processos (RPA) com Python, manipulação de grandes volumes de dados e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, Pandas e PySimpleGUI.<br><br>Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.</p>
