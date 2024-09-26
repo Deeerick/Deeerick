@@ -8,26 +8,16 @@
 
 #### Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ![Derick's GitHub stats](https://github-readme-stats-seven-beta-34.vercel.app/api?username=Deeerick&show_icons=true&theme=radical)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeerick&show_icons=true&theme=radical) -->
 
-<div>
-    <h4>Meus contatos:</h4>
-    <a href="https://www.linkedin.com/in/deeerick/">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-    </a>
-    <a href="mailto:devdeeerick@gmail.com">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-    </a>
-    <a href="https://www.instagram.com/_Deeerick">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-</div>
+#### Contatos:
+| [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/) | [![E-mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:devdeeerick@gmail.com) | [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick) | 
+|:--:|:--:|:--:|
 
-##### 
 
 <div>
     <h4>Skills:</h4>
