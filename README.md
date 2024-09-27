@@ -1,42 +1,38 @@
-<h1 align="left">Hello World! 🌎</h1>
+# Hello World! 🌎
 
 ###
 
-<div>
-    <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" height="100%">
-</div>
+![Image](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ###
 
-<p align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.<br><br>Tenho experiência em automação de processos (RPA) com Python, manipulação de grandes volumes de dados e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, Pandas e PySimpleGUI.<br><br>Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.</p>
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/)
+![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick)
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/deeerick/" text-decoration="none">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  <a href="https://www.instagram.com/_Deeerick" text-decoration="none">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
-</div>
+Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.
+
+Tenho experiência em automação de processos (RPA) com Python, manipulação de grandes volumes de dados e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, Pandas e PySimpleGUI.  
+
+Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.
 
 ###
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeerick&theme=dracula&hide_border=false"/>
 </div>
 
 ###
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=github-readme-stats" height="130" alt="languages graph"/>
 </div>
 
 ###
 
-<div align="center">
+<div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
@@ -54,13 +50,13 @@
 
 ###
 
-<div align="center">
+<div align="">
   <img src="https://profile-counter.glitch.me/Deeerick/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="">
   <a href="https://open.spotify.com/user/Derick">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=dericksoares&count=5&unique=false" alt="Spotify recently played"  />
   </a>
