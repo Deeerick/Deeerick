@@ -48,11 +48,11 @@ Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis,
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
+<!-- ###
 
 <div align="">
   <img src="https://profile-counter.glitch.me/Deeerick/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
