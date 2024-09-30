@@ -4,13 +4,13 @@
 
 ![Image](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-###
+##
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:dspsoares@outlook.com)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick)
 
-###
+##
 
 Sou formado em Análise e Desenvolvimento de Sistemas, com atuação como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.
 
@@ -18,19 +18,19 @@ Tenho experiência em automação de processos (RPA) com Python, manipulação d
 
 Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.
 
-###
+##
 
 <div align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeerick&theme=ambient_gradient&hide_border=false"/>
 </div>
 
-###
+##
 
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=6&theme=radical&hide_border=false&exclude_repo=github-readme-stats" height="140" alt="languages graph"/>
 </div>
 
-###
+##
 
 <div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -54,7 +54,7 @@ Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis,
   <img src="https://profile-counter.glitch.me/Deeerick/count.svg?"  />
 </div> -->
 
-###
+##
 
 <div align="">
   <a href="https://open.spotify.com/user/Derick">
