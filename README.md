@@ -2,14 +2,14 @@
 
 ####
 
-<!-- ![Image](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png) -->
+<!-- ![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both) -->
 
 <img src="https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both" width="100%" height="auto">
 
 ###
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:dspsoares@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dspsoares@outlook.com)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick)
 
 ###
@@ -29,7 +29,7 @@
 ###
 
 <div align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=6&theme=dark&hide_border=false&exclude_repo=github-readme-stats" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=4&theme=dark&hide_border=false&exclude_repo=github-readme-stats" height="140" alt="languages graph"/>
 </div>
 
 ###
