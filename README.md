@@ -34,7 +34,7 @@
 
 ###
 
-<div align="">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
