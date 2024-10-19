@@ -4,7 +4,7 @@
 
 <!-- ![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both) -->
 
-<img src="https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both" width="100%" height="auto">
+<img src="https://dataonwheels.wordpress.com/wp-content/uploads/2022/07/image-18.png" width="100%" height="auto">
 
 ###
 
@@ -14,22 +14,24 @@
 
 ###
 
-<div>
-  <p>Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia da Computação.Atualmente estou atuando como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.<br><br>
-    Tenho experiência em RPA com Python (automatizações para SAP em sua maioria), manipulação de grandes volumes de dados (tabelas com 100 milhões de registros) e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, pyodbc, Pandas e JayDeBeApi.<br><br> 
-    Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.</p>
+<div align="">
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia da Computação.Atualmente estou atuando como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
+  
+  <p>Tenho experiência em RPA com Python (automatizações para SAP em sua maioria), manipulação de grandes volumes de dados (tabelas com 100 milhões de registros) e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, pyodbc, Pandas e JayDeBeApi.</p>
+  
+  <p>Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.</p>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeerick&theme=dracula&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeerick&theme=dark&hide_border=false"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=4&theme=dracula&hide_border=false&exclude_repo=github-readme-stats" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=4&theme=dark&hide_border=false&exclude_repo=github-readme-stats" height="140" alt="languages graph"/>
 </div>
 
 ###
