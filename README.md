@@ -40,11 +40,11 @@
   <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
   <img width="30" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  /> -->
-  <img width="30" />
+  <!-- <img width="30" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
   <img width="30" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  /> -->
-  <img width="30" />
+  <!-- <img width="30" /> -->
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
