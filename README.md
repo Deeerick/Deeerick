@@ -15,9 +15,9 @@
 ###
 
 <div align="">
-  <p>Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia da Computação.Atualmente estou atuando como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia da Computação. Atualmente estou atuando como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
   
-  <p>Tenho experiência em RPA com Python (automatizações para SAP em sua maioria), manipulação de grandes volumes de dados (tabelas com 100 milhões de registros) e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, pyodbc, Pandas e JayDeBeApi.</p>
+  <p>Tenho experiência em RPA com Python (automações para SAP em sua maioria), manipulação de grandes volumes de dados (tabelas com dezenas e centenas de milhões de registros) e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, pyodbc, Pandas e JayDeBeApi.</p>
   
   <p>Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.</p>
 </div>
@@ -49,8 +49,8 @@
   <!-- <img width="30" /> -->
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="30" />
+  <!-- <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  /> -->
+  <!-- <img width="30" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  /> -->
 </div>
 
