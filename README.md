@@ -2,9 +2,9 @@
 
 ####
 
-<!-- ![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both) -->
+![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both)
 
-<img src="https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both" width="100%" height="auto">
+<!-- <img src="https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both" width="100%" height="auto"> -->
 
 ###
 
