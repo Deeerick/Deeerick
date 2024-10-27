@@ -2,24 +2,38 @@
 
 ####
 
-<!-- ![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both) -->
-
-<img src="https://dataonwheels.wordpress.com/wp-content/uploads/2022/07/image-18.png" width="100%" height="auto">
+![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both)
+ 
+<!-- <img src="https://www.linkedin.com/in/eduardo-santos-24a6aa42/overlay/background-image/" width="100%" height="auto"> -->
 
 ###
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/)
+<!-- [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/deeerick/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dspsoares@outlook.com)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_Deeerick) -->
 
 ###
 
-<div align="">
-  <p>Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia da Computação. Atualmente estou atuando como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/deeerick">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">
+  </a>
+  <a href="mailto:dspsoares@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/_Deeerick">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge">
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Engenharia da Computação. Atuo como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
   
-  <p>Tenho experiência em RPA com Python (automações para SAP em sua maioria), manipulação de grandes volumes de dados (tabelas com dezenas e centenas de milhões de registros) e integrações entre bancos de dados, utilizando ferramentas como SQLAlchemy, pyodbc, Pandas e JayDeBeApi.</p>
+  <p>Tenho experiência em RPA com Python, especialmente em automações para SAP, manipulação de grandes volumes de dados, e integrações entre bancos de dados utilizando ferramentas como SQLAlchemy, pyodbc, Pandas e JayDeBeApi.</p>
   
-  <p>Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre buscando otimizar processos e agregar valor às operações empresariais.</p>
+  <p>Minha expertise inclui o desenvolvimento de soluções eficientes e escaláveis, sempre focando na otimização de processos e na agregação de valor às operações empresariais.</p>
 </div>
 
 ###
@@ -41,17 +55,10 @@
   <img width="30" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
   <img width="30" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  /> -->
-  <!-- <img width="30" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
   <img width="30" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  /> -->
-  <!-- <img width="30" /> -->
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="30" />
-  <!-- <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  /> -->
-  <!-- <img width="30" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  /> -->
 </div>
 
 ###
