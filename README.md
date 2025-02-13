@@ -2,10 +2,7 @@
 
 ####
 
-<!-- ![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both) -->
-![Image](https://media.licdn.com/dms/image/v2/C5612AQFLVeP9-KP-9w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1573974990637?e=1737590400&v=beta&t=wvGJE5YbSiidFNaMm51b2LUG4o3u4lPBtTRzJY3vGlY)
-
-<!-- <img src="https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both" width="100%" height="auto"> -->
+![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both)
 
 ###
 
