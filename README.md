@@ -27,7 +27,7 @@
 ###
 
 <div align="justify">
-  <p>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Engenharia da Computação. Atuo como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas. Atuo como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
   
   <p>
     Minha experiência inclui: <br>
