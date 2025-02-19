@@ -34,20 +34,19 @@
     - RPA em Python para automações no SAP; <br>
     - Manipulação e tratamento de dados; <br>
     - Integração entre bancos de dados; <br>
-    - Bibliotecas mais utilizadas: pandas, jaydebeapi, pyodbc e sqlalchemy; <br>
   </p>
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeerick&theme=dark&hide_border=false"/>
-</div>
+</div> -->
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeerick&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=4&theme=dark&hide_border=false&exclude_repo=github-readme-stats" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark" height="140" alt="languages graph"/>
 </div>
 
 ###
