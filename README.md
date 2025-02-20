@@ -27,13 +27,15 @@
 ###
 
 <div align="justify">
-  <p>Sou formado em Análise e Desenvolvimento de Sistemas. Atuo como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas.</p>
+  <p>Atuo como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
   
   <p>
     Minha experiência inclui: <br>
     - RPA em Python para automações no SAP; <br>
     - Manipulação e tratamento de dados; <br>
     - Integração entre bancos de dados; <br>
+    - Criação de chatbot para WhatsApp; <br>
   </p>
 </div>
 
@@ -46,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dracula" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=radical" height="140" alt="languages graph"/>
 </div>
 
 ###
