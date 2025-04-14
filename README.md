@@ -2,7 +2,7 @@
 
 ####
 
-![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both)
+<!-- ![Image](https://img.ibxk.com.br/2021/08/10/10181814794027.jpg?w=1120&h=420&mode=crop&scale=both) -->
 
 ###
 
@@ -27,15 +27,15 @@
 ###
 
 <div align="justify">
-  <p>Sou formado em Análise e Desenvolvimento de Sistemas.</p>
-  <p>Atuo como programador e analista de dados em uma empresa de destaque no setor de petróleo e gás.</p>
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas e atuo como programador e analista de dados em uma empresa de referência no setor de petróleo e gás.</p>
   
   <p>
-    Minha experiência inclui: <br>
-    - RPA em Python para automações no SAP; <br>
-    - Manipulação e tratamento de dados; <br>
-    - Integração entre bancos de dados; <br>
-    - Criação de chatbot para WhatsApp; <br>
+    Tenho experiência com: <br>
+    - Desenvolvimento de soluções RPA em Python para automações no SAP; <br>
+    - Manipulação, tratamento e análise de dados; <br>
+    - Integração e sincronização entre diferentes bancos de dados; <br>
+    - Criação de fluxos de dados complexos; <br>
+    - Criação de arquitetura de bancos de dados. <br>
   </p>
 </div>
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=radical" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dracula" height="140" alt="languages graph"/>
 </div>
 
 ###
