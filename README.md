@@ -61,7 +61,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="sqlalchemy logo" title="SQL Alchemy"/>
     <img width="35" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" title="SQL Server"/>
-    <img width="35" />
     <br>
     <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo" title="Git"/>
     <img width="35" />
