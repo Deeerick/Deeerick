@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/_Deeerick" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/deeerick/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
