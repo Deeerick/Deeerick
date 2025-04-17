@@ -1,14 +1,9 @@
 # Derick Soares 👨‍💻
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=deeerick&label=Visualizações&color=0e75b6&style=flat" alt="Contador de visualizações do perfil" />
-  <a href="https://www.instagram.com/_Deeerick" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/deeerick/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_Deeerick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeerick/)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=deeerick&label=Visualizações&color=0e75b6&style=flat)
 
 
 ## 👨‍🎓 Sobre Mim
