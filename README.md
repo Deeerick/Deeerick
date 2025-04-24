@@ -25,38 +25,38 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="sqlalchemy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="36" alt="sqlalchemy logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="sqlite logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="flask logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="jupyter logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="github logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
 </div>
 
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark" height="180" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark" height="160" alt="languages graph"/>
 
 ## 🎵 O que estou ouvindo
 
 <a href="https://open.spotify.com/user/dericksoares">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dericksoares&count=5&unique=false" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dericksoares&count=5&unique=false" height="285" alt="Spotify recently played" />
 </a>
 
 ---
