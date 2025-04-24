@@ -15,11 +15,11 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 
 ## 💼 Experiência Profissional
 
-- 🤖 Desenvolvimento de soluções RPA em Python para automações no SAP
-- 📊 Manipulação, tratamento e análise de dados
-- 🔄 Integração e sincronização entre diferentes bancos de dados
-- 📈 Criação de fluxos de dados complexos
-- 🗄️ Criação de arquitetura de bancos de dados
+- ✅ Desenvolvimento de soluções RPA em Python para automações no SAP
+- ✅ Manipulação, tratamento e análise de dados
+- ✅ Integração e sincronização entre diferentes bancos de dados
+- ✅ Criação de fluxos de dados complexos
+- ✅ Criação de arquitetura de bancos de dados
 
 
 ## 🛠️ Tecnologias & Ferramentas
