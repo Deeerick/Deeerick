@@ -1,7 +1,7 @@
 # Derick Soares 👨‍💻
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_Deeerick)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_Deeerick) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeerick/)
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=deeerick&label=Visualizações&color=0e75b6&style=flat)
 
@@ -20,6 +20,33 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 - ✅ Integração e sincronização entre diferentes bancos de dados
 - ✅ Criação de fluxos de dados complexos
 - ✅ Criação de arquitetura de bancos de dados
+
+
+## 🎓 Formação Acadêmica
+
+- **Engenharia e Administração de Banco de Dados**  
+  Extecamp Unicamp  
+  Em andamento
+
+- **Análise e Desenvolvimento de Sistemas**  
+  Estácio  
+  Conclusão: 2024
+
+- **Python - Boas Práticas de Programação com PEP8**  
+  Alura  
+  Conclusão: 2024
+
+- **Introdução ao SQL**  
+  Alura  
+  Conclusão: 2024
+
+- **Análise Exploratória de Dados em Python**  
+  Alura  
+  Conclusão: 2024
+
+- **Lógica de Programação com Python**  
+  Estácio  
+  Conclusão: 2023
 
 
 ## 🛠️ Tecnologias & Ferramentas
