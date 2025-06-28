@@ -53,10 +53,10 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark" height="160" alt="languages graph"/> -->
 
-## 🎵 O que estou ouvindo
+<!-- ## 🎵 O que estou ouvindo
 
 <a href="https://open.spotify.com/user/dericksoares">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=dericksoares&count=5&unique=false" height="285" alt="Spotify recently played" />
-</a>
+</a> -->
 
 ---
