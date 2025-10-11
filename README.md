@@ -1,12 +1,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
   <h1>Dérick Soares ✌</h1>
-  <a href="https://www.linkedin.com/in/deeerick">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/_dev.de">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeerick)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dev.de)
 </div>
 
 
@@ -73,7 +70,7 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="fastapi logo"/>
 </div>
-
+<br>
 <div align="left">
   <!-- Linha 2: Outras tecnologias -->
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"/>
