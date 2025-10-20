@@ -99,7 +99,7 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark" height="160" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark&hide=" height="160" alt="languages graph"/>
 
 
 ## 🎵 O que estou ouvindo
