@@ -9,10 +9,9 @@
 
 ## 👨‍🎓 Sobre Mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, com uma paixão contínua por aprender e explorar novas tecnologias. Atualmente, estou me especializando em Data Science, Python e Inteligência Artificial, áreas que considero fundamentais para o presente e o futuro da análise de dados e da transformação digital.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio, com uma paixão incessante por aprender e explorar novas tecnologias. Atualmente, estou me especializando em Data Science, Python e Inteligência Artificial, áreas que vejo como essenciais para a análise de dados e a transformação digital no futuro.
 
-Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot para o Discord utilizando Python e API REST. Desde então, venho aprofundando meus conhecimentos em automação de processos, machine learning, modelagem de dados, limpeza e tratamento de dados com Pandas, visualização de dados com Power BI e integrações com bancos de dados como SQL Server, SQLite e Oracle.
-
+Minha jornada na tecnologia iniciou com um projeto pessoal: um bot para Discord usando Python e APIs REST. Desde então, venho aprimorando habilidades em automação de processos, machine learning, modelagem de dados, limpeza e tratamento com Pandas, visualização com Power BI, e integrações com bancos de dados como SQL Server, SQLite e Oracle. Recentemente, desenvolvi um sistema de gerenciamento web para petsitters, atualmente em beta fechado, focado em facilitar agendamentos e gestão de serviços.
 
 ## 💼 Experiência Profissional
 
@@ -21,6 +20,7 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 - ✅ Integração e sincronização entre diferentes bancos de dados
 - ✅ Criação de fluxos de dados complexos
 - ✅ Criação de arquitetura de bancos de dados
+- ✅ Desenvolvimento de sistema web de gerenciamento para petsitters (em beta fechado)
 
 
 ## 🎓 Formação Acadêmica
@@ -69,6 +69,12 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
   <img src="https://cdn.simpleicons.org/flask/000000" height="48" alt="flask logo"/>
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="fastapi logo"/>
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="js logo"/>
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="ts logo"/>
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"/>
 </div>
 <br>
 <div align="left">
@@ -97,9 +103,9 @@ Minha trajetória na tecnologia começou com um projeto pessoal: criar um bot pa
 </div>
 
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark&hide=" height="160" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeerick&layout=compact&theme=dark&hide=" height="160" alt="languages graph"/> -->
 
 
 ## 🎵 O que estou ouvindo
